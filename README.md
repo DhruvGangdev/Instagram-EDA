@@ -1,4 +1,4 @@
-# Instagram Data Exploratory Data Analysis (EDA)
+# Instagram Data(EDA)
 
 ## Overview
 This project aims to analyze Instagram data using Exploratory Data Analysis (EDA) techniques. The goal is to uncover trends, patterns, and insights from the dataset. The entire analysis is documented in a Jupyter Notebook, making it easy to follow and understand.
