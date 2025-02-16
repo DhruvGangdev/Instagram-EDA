@@ -5,7 +5,7 @@ This project aims to analyze Instagram data using Exploratory Data Analysis (EDA
 
 ## Files in This Repository
 1. **Instagram data.csv** - This file contains raw Instagram data, including various metrics such as likes, comments, and hashtags.
-2. **Instagram data Explorative data analytics.ipynb** - A Jupyter Notebook that walks through the entire EDA process, including data preprocessing, visualization, and insights generation.
+2. **Instagram data.ipynb** - A Jupyter Notebook that walks through the entire EDA process, including data preprocessing, visualization, and insights generation.
 
 ## Installation and Requirements
 To run the analysis, you need to install some essential Python libraries. Use the following command:
